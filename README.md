@@ -14,7 +14,17 @@ Soon
 
 ### Example
 
-Soon
+The example code has been available when the language has been on public beta version!
+The file extension is for example `main.meow` but i created something that can be but i'm not sure if that's code has been on original version!
+```
+from meow import *
+
+$window = meow.window()
+$console = $window.getConsole()
+
+# The example text going out
+$console.log("Hello World")
+```
 
 ### Documentation
 
