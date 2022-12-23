@@ -28,7 +28,7 @@ $console.log("Hello World")
 
 ### Documentation
 
-Soon
+Visit [wiki page](https://github.com/xKotelek/MeowLang/wiki) for the documentation
 
 ### History
 
