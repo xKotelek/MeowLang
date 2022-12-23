@@ -45,5 +45,5 @@ The first non-beta and non-public version of language has been made in 22 day of
 
 ### Showcase
 
-First version of showcaise is been available below ⬇️
+First version of showcase is been available below ⬇️
 <img src="showcase.gif" alt="Showcase">
