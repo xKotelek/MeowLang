@@ -14,16 +14,25 @@ Soon
 
 ### Example
 
-The example code has been available when the language has been on public beta version!
-The file extension is for example `main.meow` but i created something that can be but i'm not sure if that's code has been on original version!
+The example code is below!
 ```
-from meow import *
+# This is the example of meow language
 
-$window = meow.window()
-$console = $window.getConsole()
+FUN hello(text, separator, end)
+    VAR txt = "Hello" + separator + text + end
+    RETURN txt
+END
 
-# The example text going out
-$console.log("Hello World")
+PRINT(hello("World", " ", "!"))
+```
+
+This is an docs for this example:
+```
+PRINT(text or var)      -> prints text
+FUN name(parameters)    -> function creator
+END                     -> function closer
+RETURN                  -> return function data
+VAR                     -> create a variable
 ```
 
 ### Documentation
