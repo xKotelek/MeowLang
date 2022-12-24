@@ -2,11 +2,7 @@
 
 **Programming language based on Python and custom BASIC implementation**
 
-[![CI Status][build-badge]][build-link] [![GitHub Releases][downloads-badge]][downloads-link] [![Discord][discord-badge]][discord-link] [![Website][website-badge]][website-link] [![Docs][docs-badge]][docs-link]
 
-
-[build-badge]: https://img.shields.io/github/actions/workflow/status/xKotelek/MeowLang/ci.yml?branch=main&logo=Github&logoColor=3a71c1&labelColor=0c0d10&color=3a71c1&style=for-the-badge
-[build-link]: https://github.com/BetterDiscord/BetterDiscord/actions/workflows/ci.yml
 
 ### Introduction
 
