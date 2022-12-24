@@ -1,8 +1,9 @@
-# Meow
+<div align="center">
+Meow
 
 **Programming language based on Python and custom BASIC implementation**
 
-
+![Cretor](https://badgen.net/badge/Creator/xKotelek/purple?icon=github)
 
 ### Introduction
 
@@ -49,3 +50,4 @@ The first non-beta and non-public version of language has been made in 22 day of
 
 First version of showcase is been available below ⬇️
 <img src="showcase.gif" alt="Showcase">
+</div>
