@@ -4,7 +4,7 @@
 
 ### **Programming language based on Python and custom BASIC implementation**
     
-<img src="https://meow-lang.ml/assets/logo.png" width="128" height="128">
+<img src="https://meow-lang.ml/assets/logo-nobg.png" width="128" height="128">
 
 **[![CI Status][build-badge]][build-link] [![GitHub Releases][downloads-badge]][downloads-link] [![Discord][discord-badge]][discord-link] [![Website][website-badge]][website-link] [![Docs][docs-badge]][docs-link]**
     
