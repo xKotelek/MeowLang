@@ -15,7 +15,7 @@
 [downloads-link]: https://github.com/xKotelek/MeowLang/releases/latest/download/Meow.exe
     
 [discord-badge]: https://img.shields.io/badge/discord-green?labelColor=0c0d10&color=7C15BB&style=for-the-badge&logo=discord&logoColor=7C15BB
-[discord-link]: https://meow-lang.ml
+[discord-link]: https://discord.gg/Ctp22W28Aw
 
 [website-badge]: https://img.shields.io/badge/website-green?labelColor=0c0d10&color=7C15BB&style=for-the-badge&logo=firefoxbrowser&logoColor=7C15BB
 [website-link]: https://meow-lang.ml
